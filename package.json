@@ -2,7 +2,7 @@
   "name": "bourdain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://btramel.github.io/AskBourdain/",
+  "homepage": "https://btramel.github.io/",
   "dependencies": {
     "-": "^0.0.1",
     "@material-ui/core": "^4.12.4",
