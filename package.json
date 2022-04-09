@@ -2,6 +2,7 @@
   "name": "bourdain",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://btramel.github.io/AskBourdain/",
   "dependencies": {
     "-": "^0.0.1",
     "@material-ui/core": "^4.12.4",
@@ -12,7 +13,6 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
-    "homepage": "https://btramel.github.io/AskBourdain/",
     "gh-pages": "^3.2.3",
     "google-map-react": "^2.1.10",
     "react": "^18.0.0",
