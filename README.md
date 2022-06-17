@@ -10,4 +10,4 @@
 
 The project is hosted on Netlify. Feel free to <a href="https://askbourdain.netlify.app/">mess around with it</a> before I run out of monthly Travel Advisor API calls!
 
-Thanks for reading about my weather app! Please check out <a href="https://github.com/btramel">my other projects</a>, and don't hesitate to <a href="mailto:bradtramel@gmail.com">drop me a line!</a>
+Thanks for reading about my travel advisor app! Please check out <a href="https://github.com/btramel">my other projects</a>, and don't hesitate to <a href="mailto:bradtramel@gmail.com">drop me a line!</a>
